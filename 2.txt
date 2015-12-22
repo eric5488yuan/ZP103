@@ -1,2 +1,3 @@
 HelloWorld!
 Eric Hi!
+Add new line. Fix bug from crash.
